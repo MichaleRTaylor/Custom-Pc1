@@ -6,7 +6,7 @@ This repository documents the creation of a custom-built desktop PC designed for
 
 ---
 
-## 🧩 Build Components (Listed in Assembly Order)
+## 🧩 Build Components 
 
 ### 1. GPU: ASRock RX 6600 8GB CLD Challenger D GDDR6
 - Purpose: Mid-range gaming and hardware acceleration
@@ -55,11 +55,6 @@ This repository documents the creation of a custom-built desktop PC designed for
 
 ---
 
-## 🧪 Performance & Benchmarks *(Optional Section)*
-> Add benchmark results here if you’ve run tools like Cinebench, 3DMark, or CrystalDiskMark.
-
----
-
 ## 🛠️ Troubleshooting & Optimizations
 - BIOS updated to latest version for Ryzen 5700X support
 - Verified SSD compatibility with Gen 4 slot and thermal throttling
@@ -79,6 +74,8 @@ This repository documents the creation of a custom-built desktop PC designed for
 > You can upload images to your GitHub repo and link them here using:
 ```markdown
 ![Build Photo](images/pc_build.jpg)
+
+
 
 
 
