@@ -73,10 +73,16 @@ This repository documents the creation of a custom-built desktop PC designed for
 ## 📸 Build Photos 
 
 ![20250505_145427](https://github.com/user-attachments/assets/c148a162-a103-4259-b029-6fdd1be49572)
-
-
-
-
+![20250505_154432](https://github.com/user-attachments/assets/ff924dad-c0b9-4955-9bf3-00dd69415552)
+![20250505_162715](https://github.com/user-attachments/assets/f72f2199-e8ac-4f9e-be8e-789a36260abc)
+![20250505_165520](https://github.com/user-attachments/assets/80d3d0ce-4abb-4904-82b9-fbf77ba9ee63)
+![20250505_171924](https://github.com/user-attachments/assets/0ed02c50-750b-4850-a3c3-6895bfb80e29)
+![20250505_173337](https://github.com/user-attachments/assets/32fc2c07-58b1-4212-a040-89347dd500a1)
+![20250505_195124](https://github.com/user-attachments/assets/07a2ab06-ff1f-4eea-9ac8-2a70149e683d)
+![20250505_201207](https://github.com/user-attachments/assets/aed147d9-eebf-4a00-8601-ba250261bbbc)
+![20250505_201216](https://github.com/user-attachments/assets/347cc2ab-bf1b-4998-83fd-757da86c9604)
+![20250505_205012](https://github.com/user-attachments/assets/022fd045-a376-445c-a258-57a16091f5f0)
+![20250505_230135](https://github.com/user-attachments/assets/5c62b6cc-7961-4647-bcbe-fb7dafff6916)
 
 
 
