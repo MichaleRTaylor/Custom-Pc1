@@ -72,6 +72,8 @@ This repository documents the creation of a custom-built desktop PC designed for
 
 ## 📸 Build Photos 
 
+![20250505_145427](https://github.com/user-attachments/assets/c148a162-a103-4259-b029-6fdd1be49572)
+
 
 
 
