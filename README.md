@@ -73,7 +73,8 @@ This repository documents the creation of a custom-built desktop PC designed for
 ## 📸 Build Photos *(Optional)*
 > You can upload images to your GitHub repo and link them here using:
 ```markdown
-![Build Photo](images/pc_build.jpg)
+![20250505_145427](https://github.com/user-attachments/assets/f6e69e52-9320-449d-882b-bb7a3e837570)
+
 
 
 
